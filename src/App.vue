@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- Barra de navegación con enlaces a diferentes rutas -->  
-    <nav class="navbar navbar-expand-lg navbar-light bg-success">
+    <nav class="navbar navbar-expand-lg navbar-light bg-primary">
       <div class="container-fluid">        
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
